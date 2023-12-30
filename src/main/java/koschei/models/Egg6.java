@@ -9,6 +9,6 @@ public class Egg6 {
 
     @Override
     public String toString() {
-        return ", в яйце иголка " + needle.toString();
+        return ", и наконец в яйце иголка " + needle.toString();
     }
 }
